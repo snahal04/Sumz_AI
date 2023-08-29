@@ -1,4 +1,5 @@
 Visit [Live Page](https://snahal04.github.io/Sumz_AI/)
+[Automation with Ansible](https://github.com/snahal04/Mastering-Linux-Admin/tree/main/Ansible/Project)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
